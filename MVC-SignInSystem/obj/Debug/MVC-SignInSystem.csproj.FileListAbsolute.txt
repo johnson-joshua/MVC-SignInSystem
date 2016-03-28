@@ -1,0 +1,12 @@
+c:\users\joshua\documents\visual studio 2015\Projects\MVC-SignInSystem\MVC-SignInSystem\bin\Debug\SignInStudentInfo.accdb
+c:\users\joshua\documents\visual studio 2015\Projects\MVC-SignInSystem\MVC-SignInSystem\bin\Debug\MVC-SignInSystem.exe.config
+c:\users\joshua\documents\visual studio 2015\Projects\MVC-SignInSystem\MVC-SignInSystem\bin\Debug\MVC-SignInSystem.exe
+c:\users\joshua\documents\visual studio 2015\Projects\MVC-SignInSystem\MVC-SignInSystem\bin\Debug\MVC-SignInSystem.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\MVC-SignInSystem\MVC-SignInSystem\obj\Debug\MVC_SignInSystem.frmSignIn.resources
+c:\users\joshua\documents\visual studio 2015\Projects\MVC-SignInSystem\MVC-SignInSystem\obj\Debug\MVC_SignInSystem.Properties.Resources.resources
+c:\users\joshua\documents\visual studio 2015\Projects\MVC-SignInSystem\MVC-SignInSystem\obj\Debug\MVC-SignInSystem.csproj.GenerateResource.Cache
+c:\users\joshua\documents\visual studio 2015\Projects\MVC-SignInSystem\MVC-SignInSystem\obj\Debug\MVC-SignInSystem.exe
+c:\users\joshua\documents\visual studio 2015\Projects\MVC-SignInSystem\MVC-SignInSystem\obj\Debug\MVC-SignInSystem.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\MVC-SignInSystem\MVC-SignInSystem\obj\Debug\MVC-SignInSystem.csprojResolveAssemblyReference.cache
+c:\users\joshua\documents\visual studio 2015\Projects\MVC-SignInSystem\MVC-SignInSystem\obj\Debug\MVC_SignInSystem.Views.frmRegister.resources
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\MVC-SignInSystem\MVC-SignInSystem\obj\Debug\MVC_SignInSystem.Views.frmInstructorDialogBox.resources
