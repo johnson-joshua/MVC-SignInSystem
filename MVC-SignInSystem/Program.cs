@@ -10,6 +10,7 @@ namespace MVC_SignInSystem
 {
     public class Program
     {
+        //Just testing this program with GitHub
         public static frmSignIn signInForm;
         public static frmRegister registerForm;
         public static frmInstructorDialogBox instructorDialogBox;

@@ -10,3 +10,6 @@ c:\users\joshua\documents\visual studio 2015\Projects\MVC-SignInSystem\MVC-SignI
 c:\users\joshua\documents\visual studio 2015\Projects\MVC-SignInSystem\MVC-SignInSystem\obj\Debug\MVC-SignInSystem.csprojResolveAssemblyReference.cache
 c:\users\joshua\documents\visual studio 2015\Projects\MVC-SignInSystem\MVC-SignInSystem\obj\Debug\MVC_SignInSystem.Views.frmRegister.resources
 C:\Users\Joshua\Documents\Visual Studio 2015\Projects\MVC-SignInSystem\MVC-SignInSystem\obj\Debug\MVC_SignInSystem.Views.frmInstructorDialogBox.resources
+C:\Users\Joshua\Source\Repos\MVC-SignInSystem\MVC-SignInSystem\bin\Debug\MVC-SignInSystem.exe.config
+C:\Users\Joshua\Source\Repos\MVC-SignInSystem\MVC-SignInSystem\obj\Debug\MVC-SignInSystem.exe
+C:\Users\Joshua\Source\Repos\MVC-SignInSystem\MVC-SignInSystem\obj\Debug\MVC-SignInSystem.pdb
